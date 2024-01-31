@@ -38,8 +38,8 @@ const [bio, setBio] = useState("This is the offical account for dotCom Gems")
                 <br></br>
                 <button  className="bg-purple-500 text-white py-[12px] rounded-lg" herf = " " >Wishlist</button>
                 <br></br>
-                <button  className="bg-purple-500 text-white py-[12px] rounded-lg bg-purple-500 border-2 border-purple-500 shadow-2xl shadow-indigo-600" herf = " " >Share dotCom Gems</button>
-                <div className="socialLinks flex justify-center justify-around py-[40px]">
+                <button  className="bg-purple-500 text-white py-[12px] rounded-lg  border-2 border-purple-500 shadow-2xl shadow-indigo-600" herf = " " >Share dotCom Gems</button>
+                <div className="socialLinks flex justify-center  py-[40px]">
                     <a herf><img src="facebook.png"></img></a>
                     <a herf><img src="instagram.png"></img></a>
                 </div>
@@ -60,8 +60,8 @@ const [bio, setBio] = useState("This is the offical account for dotCom Gems")
                 <br></br>
                 <button  className="bg-red-500 text-white py-[12px] rounded-lg" herf = " " >Wishlist</button>
                 <br></br>
-                <button  className="bg-black border-2 text-white py-[12px] rounded-lg border-2 shadow-2xl shadow-red-600" herf = " " >Share dotCom Gems</button>
-                <div className="socialLinks flex justify-center justify-around py-[40px]">
+                <button  className="bg-black border-2 text-white py-[12px] rounded-lg  shadow-2xl shadow-red-600" herf = " " >Share dotCom Gems</button>
+                <div className="socialLinks flex justify-center  py-[40px]">
                     <a herf><img src="facebook.png"></img></a>
                     <a herf><img src="instagram.png"></img></a>
                 </div>
