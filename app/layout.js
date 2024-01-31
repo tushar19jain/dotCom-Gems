@@ -12,7 +12,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>{children}</body>
-      <script src="https://cdn.tailwindcss.com"></script>
     </html>
   );
 }
