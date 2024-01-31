@@ -19,8 +19,8 @@ const Navbar =()=>{
        <div className='bg-gray-950 flex justify-between h-16 px-[50px]'>
             <div className = 'flex items-center gap-[40px]'>
                 <img className="h-[20px]" src = "logo.svg"></img>
-                <p className = 'hidden text-white xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>Features</p>
-                <p className = 'hidden text-white xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>FAQ</p>
+                <p className = 'hidden sm:hidden text-white  xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>Features</p>
+                <p className = 'hidden sm:hidden text-white xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>FAQ</p>
             </div>
             <div className ='flex items-center'>
                 <button className = 'hidden xl:inline-block 2xl:inline-block lg:inline-block md:inline-block text-white font-semibold text-sm rounded-full px-[8px] w-[100px] py-[10px]'>Login</button>
