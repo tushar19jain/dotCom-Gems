@@ -18,7 +18,7 @@ const Navbar =()=>{
        :
        <div className='bg-gray-950 flex justify-between h-16 px-[50px]'>
             <div className = 'flex items-center gap-[40px]'>
-                <img className="h-[20px]" src = "logo.svg"></img>
+                <img className="h-[40px]" src = "logo.svg"></img>
                 <p className = 'hidden sm:hidden text-white  xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>Features</p>
                 <p className = 'hidden sm:hidden text-white xl:inline-block 2xl:inline-block lg:inline-block md:inline-block'>FAQ</p>
             </div>
